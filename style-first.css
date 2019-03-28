@@ -1,0 +1,52 @@
+#aaa {
+	color:blue;
+}
+#sidebar h3 {
+	letter-spacing:10px;
+	font-style: italic;
+	text-align: right;
+	margin-top: 0.5em;
+	}
+
+#sidebar h2 {
+	font-size: 1em;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0;
+	line-height: 1.5;
+	text-align: right;
+	}
+a {
+	text-decoration:none;
+}
+h1 {
+	#text-indent:5em;
+	text-align:center;
+	word-spacing:10px;
+}
+p.test1 {
+	text-transform:capitalize;
+	text-decoration:blink;
+}
+span.nowrap-csm{
+	color:red;
+	white-space:nowrap;
+}
+
+.cities {
+    background-color:black;
+    color:white;
+    margin:20px;
+    padding:20px;
+} 
+
+.fancy td  {
+    color: #f60;
+    background: #666;
+	
+    }
+
+
+[xxx]{
+	color:blue;
+}
